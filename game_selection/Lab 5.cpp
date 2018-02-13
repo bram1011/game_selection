@@ -6,7 +6,7 @@
 
 Author: Bram Hampton
 Date: 2/12/2018
-Description:
+Description: Plays different small games depending on input.
 */
 
 #include <iostream>
